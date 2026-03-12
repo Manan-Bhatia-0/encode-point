@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/encode-point/static/css/main.f41037b2.css",
+    "main.js": "/encode-point/static/js/main.bf43e58a.js",
+    "index.html": "/encode-point/index.html",
+    "main.f41037b2.css.map": "/encode-point/static/css/main.f41037b2.css.map",
+    "main.bf43e58a.js.map": "/encode-point/static/js/main.bf43e58a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41037b2.css",
+    "static/js/main.bf43e58a.js"
+  ]
+}
